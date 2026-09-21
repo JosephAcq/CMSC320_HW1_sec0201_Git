@@ -7,3 +7,12 @@ Q2: What field could data science be applied to? Give an Example.
 Answer: A field data science can be appled to is Consulting 
 since in consulting huge amounts of data are looked at and
 manipulated.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging joins two branches together, while rebasing moves one branch’s changes on top of another.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning pandas and numpy!
