@@ -8,7 +8,6 @@ Answer: A field data science can be appled to is Consulting
 since in consulting huge amounts of data are looked at and
 manipulated.
 
-
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging joins two branches together, while rebasing moves one branch’s changes on top of another.
